@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 /**
-* Define the constants here
+* Define Constants
 *
 *
 */
